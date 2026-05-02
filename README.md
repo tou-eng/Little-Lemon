@@ -24,11 +24,9 @@ A full-stack restaurant web application built with Django, designed to manage me
 **Frontend**
 - HTML
 - CSS
-- JavaScript
 
 **Database**
 - SQLite (default)
-- MySQL (optional for production)
 
 ---
 
