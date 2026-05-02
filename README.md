@@ -1,2 +1,35 @@
-# Little-Lemon
-# 🍋 Little Lemon Web App  A full-stack restaurant web application built with Django.   Little Lemon is a modern platform designed to showcase a restaurant’s menu, manage bookings, and provide a smooth user experience for customers.  ---
+# 🍋 Little Lemon – Restaurant Web App
+
+A full-stack restaurant web application built with Django, designed to manage menu items, reservations, and customer interactions.
+
+---
+
+## 🚀 Features
+
+- 🧾 Menu management (view dishes, categories, prices)
+- 📅 Table reservation system
+- 👤 User authentication (login/register)
+- 🛒 Order management (optional extension)
+- ⚙️ Admin dashboard for managing content
+- 📱 Responsive UI (HTML, CSS, JavaScript)
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Python
+- Django
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+
+**Database**
+- SQLite (default)
+- MySQL (optional for production)
+
+---
+
+## 📂 Project Structure
